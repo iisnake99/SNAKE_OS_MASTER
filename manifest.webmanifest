@@ -1,0 +1,9 @@
+{
+  "name": "SNAKE OS MASTER",
+  "short_name": "SNAKE OS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "description": "SNAKE OS Revenue Recovery Command Center"
+}
